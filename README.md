@@ -36,9 +36,8 @@ I'm a passionate [Your Occupation] based in [Your Location]. I love to [Your Int
 
 ## 📫 How to Reach Me
 
-- Email: your.email@example.com
-- Website: [Your Website](https://www.yourwebsite.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-username/)
+- Email: dikshagour100@gmail.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/diksha-gour-2a904025a/)
 - Twitter: [Your Twitter](https://twitter.com/your_twitter_username)
 
 ---
