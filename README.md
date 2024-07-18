@@ -2,13 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?style=social)](https://twitter.com/your_twitter_username)
 [![Linkedin: Diksha Gour](https://img.shields.io/badge/-Diksha_Gour-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diksha-gour-2a904025a/)](https://www.linkedin.com/in/diksha-gour-2a904025a/)
-[![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
+[![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/dikshagour01)
 
 ---
 
 ## About Me
 
-I'm a passionate [Web Developer]. I'm into [full stack development]. In my free time, I love to [Dance].
+I'm a passionate Web Developer. I'm into full stack development. In my free time, I love to Dance.
 
 ---
 
