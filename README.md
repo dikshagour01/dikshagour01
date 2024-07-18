@@ -38,9 +38,8 @@ I'm a passionate Web Developer. I'm into full-stack development. In my free time
 
 ## 📫 How to Reach Me
 
-- Email: dikshagour100@gmail.com
+- Email: 21aiml05@gweca.ac.in
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/diksha-gour-2a904025a/)
-- Twitter: [Your Twitter](https://twitter.com/your_twitter_username)
 
 ---
 
