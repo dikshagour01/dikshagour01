@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a passionate [Your Occupation] based in [Your Location]. I love to [Your Interests/Hobbies] and [Other Interests/Hobbies]. In my free time, you can find me [What you like to do in your free time].
+I'm a passionate [Web Developer]. I'm into [full stack development]. In my free time, I love to [Dance].
 
 ---
 
