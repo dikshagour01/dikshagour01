@@ -1,7 +1,7 @@
 # Hello, I'm Diksha Gour! 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_username?style=social)](https://twitter.com/your_twitter_username)
-[![Linkedin: Diksha Gour](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-username/)https://www.linkedin.com/in/diksha-gour-2a904025a/
+[![Linkedin: Diksha Gour](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-username/)https://www.linkedin.com/in/diksha-gour-2a904025a/]
 [![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
 
 ---
