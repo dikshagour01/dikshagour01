@@ -32,14 +32,16 @@ I'm a passionate Web Developer. I'm into full-stack development. In my free time
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshagour01&show_icons=true&hide_title=true&hide_border=true&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
 
 ---
 
 ## 📫 How to Reach Me
 
 - Email: 21aiml05@gweca.ac.in
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/diksha-gour-2a904025a/)
+- LinkedIn: [Diksha Gour](https://www.linkedin.com/in/diksha-gour-2a904025a/)
 
 ---
 
